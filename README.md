@@ -15,8 +15,8 @@
 
 ---
 📫 **Contacto**
-- [LinkedIn](https://www.linkedin.com/in/zerodumpingenterprise)
-- [Twitter](https://twitter.com/zerodumpingent)
+- [LinkedIn](https://www.linkedin.com/in/danielandresperez)
+- [Twitter](https://twitter.com/danipega)
 
 ---
 > "Zero miedo. Zero excusas. Zero dumping. Solo código."
