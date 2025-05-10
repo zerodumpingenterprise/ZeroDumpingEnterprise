@@ -4,7 +4,6 @@
 
 ---
 🚀 **Proyectos Destacados**
-- [ToDoApp](https://github.com/zerodumpingenterprise/ToDoApp): Aplicación de gestión de tareas construida con Python.
 - [HackTools](https://github.com/zerodumpingenterprise/HackTools): Colección de scripts y herramientas para pruebas de penetración.
 
 ---
