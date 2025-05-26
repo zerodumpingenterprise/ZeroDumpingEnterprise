@@ -3,11 +3,7 @@
 > 💻 Desarrollador. 🧠 Hacker. 🕶️ Identidad en construcción.
 
 ---
-🚀 **Proyectos Destacados**
-- [HackTools](https://github.com/zerodumpingenterprise/HackTools): Colección de scripts y herramientas para pruebas de penetración.
-
----
-🧠 **Habilidades**
+🧠 **Habilidades en construcción**
 - Lenguajes: Python, JavaScript, Bash
 - Herramientas: Git, Docker, VS Code
 - Áreas de interés: Ciberseguridad, Automatización, Desarrollo Web
